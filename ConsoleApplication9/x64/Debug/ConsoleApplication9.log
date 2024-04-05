@@ -1,0 +1,3 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\simaz\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(100,14): warning C4101: success: неиспользованная локальная переменная
+  ConsoleApplication9.vcxproj -> C:\Users\simaz\source\repos\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
